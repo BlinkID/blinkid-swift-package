@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.4
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Microblink",
-            url: "https://github.com/BlinkID/blinkid-ios/releases/download/v5.11.0/Microblink.xcframework.zip",
-            checksum: "c4e0406d8ba80e531c2c6c09bbf24a4eab9021342e06d8bba9c4afad82da75b9")
+            url: "https://github.com/BlinkID/blinkid-ios/releases/download/v5.12.0/Microblink.xcframework.zip",
+            checksum: "4be3f15be2ae3fd34e319073b4d54567940ab6ee1265d58743a0f8ab2153bfdc")
     ]
 )
 
