@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Microblink",
-            url: "https://github.com/BlinkID/blinkid-ios/releases/download/v5.12.0/Microblink.xcframework.zip",
-            checksum: "4be3f15be2ae3fd34e319073b4d54567940ab6ee1265d58743a0f8ab2153bfdc")
+            url: "https://github.com/BlinkID/blinkid-ios/releases/download/v5.13.0/Microblink.xcframework.zip",
+            checksum: "207cdb5fbe87aeb1a6e4a95ce86167a421575b08d9364935f41d220b8813fb23")
     ]
 )
 
